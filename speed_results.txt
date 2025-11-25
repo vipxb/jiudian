@@ -1,5 +1,4 @@
-吉林卫视,http://221.2.148.205:8154/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0,0.374 MB/s
-天津卫视,http://221.2.148.205:8154/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,0.374 MB/s
-山东生活,http://221.2.148.205:8154/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0,0.374 MB/s
-贵州卫视,http://221.2.148.205:8154/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0,0.374 MB/s
-陕西卫视,http://221.2.148.205:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0,0.374 MB/s
+CCTV4,http://221.193.168.164:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0,1.749 MB/s
+CCTV5,http://221.193.168.164:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0,1.705 MB/s
+湖北卫视,http://182.126.119.133:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0,1.705 MB/s
+黑龙江卫视,http://182.126.119.133:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0,1.749 MB/s
