@@ -1,0 +1,11 @@
+CCTV1,http://101.74.28.103:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
+CCTV5,http://182.114.49.53:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV10,http://182.114.49.53:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0,0.295 MB/s
+安徽卫视,http://182.114.49.53:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.295 MB/s
+山东体育,http://221.2.148.205:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0,0.295 MB/s
+山东新闻,http://221.2.148.205:8154/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+河南卫视,http://221.2.148.205:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0,0.295 MB/s
+河南卫视,http://182.114.49.53:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+贵州卫视,http://221.2.148.205:8154/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0,0.295 MB/s
+辽宁卫视,http://221.2.148.205:8154/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,0.295 MB/s
+陕西卫视,http://221.2.148.205:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0,0.295 MB/s
