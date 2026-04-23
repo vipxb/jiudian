@@ -1,11 +1,11 @@
 name: itvlist
 
-于:
+on:
   workflow_dispatch:
   schedule:
     - cron: '0 21 * * *'
   push:
-    分支:
+    branches:
       - main
 
 jobs:
@@ -43,7 +43,7 @@ jobs:
           git config --local user.email "ssili@126.com"
           git config --local user.name "ssili126"
           git add .
-          git commit *.txt -m "Add generated file"
+          git commit -m "Add generated file"   # 这里修复了：移除了 *.txt
           #git commit *.m3u -m "Add generated file"
           #git pull --rebase
           git push -f
